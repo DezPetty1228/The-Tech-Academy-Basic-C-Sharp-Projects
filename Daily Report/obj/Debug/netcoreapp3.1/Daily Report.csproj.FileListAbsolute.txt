@@ -1,0 +1,13 @@
+C:\Users\Dezden\Desktop\Basic_C#_Programs\Daily Report\bin\Debug\netcoreapp3.1\Daily Report.exe
+C:\Users\Dezden\Desktop\Basic_C#_Programs\Daily Report\bin\Debug\netcoreapp3.1\Daily Report.deps.json
+C:\Users\Dezden\Desktop\Basic_C#_Programs\Daily Report\bin\Debug\netcoreapp3.1\Daily Report.runtimeconfig.json
+C:\Users\Dezden\Desktop\Basic_C#_Programs\Daily Report\bin\Debug\netcoreapp3.1\Daily Report.runtimeconfig.dev.json
+C:\Users\Dezden\Desktop\Basic_C#_Programs\Daily Report\bin\Debug\netcoreapp3.1\Daily Report.dll
+C:\Users\Dezden\Desktop\Basic_C#_Programs\Daily Report\bin\Debug\netcoreapp3.1\Daily Report.pdb
+C:\Users\Dezden\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\netcoreapp3.1\Daily Report.csproj.AssemblyReference.cache
+C:\Users\Dezden\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\netcoreapp3.1\Daily Report.AssemblyInfoInputs.cache
+C:\Users\Dezden\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\netcoreapp3.1\Daily Report.AssemblyInfo.cs
+C:\Users\Dezden\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\netcoreapp3.1\Daily Report.csproj.CoreCompileInputs.cache
+C:\Users\Dezden\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\netcoreapp3.1\Daily Report.dll
+C:\Users\Dezden\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\netcoreapp3.1\Daily Report.pdb
+C:\Users\Dezden\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\netcoreapp3.1\Daily Report.genruntimeconfig.cache
