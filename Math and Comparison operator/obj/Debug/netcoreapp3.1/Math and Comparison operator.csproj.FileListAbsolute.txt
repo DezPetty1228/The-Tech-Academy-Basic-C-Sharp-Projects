@@ -1,0 +1,13 @@
+C:\Users\Dezden\source\repos\Math and Comparison operator\bin\Debug\netcoreapp3.1\Math and Comparison operator.exe
+C:\Users\Dezden\source\repos\Math and Comparison operator\bin\Debug\netcoreapp3.1\Math and Comparison operator.deps.json
+C:\Users\Dezden\source\repos\Math and Comparison operator\bin\Debug\netcoreapp3.1\Math and Comparison operator.runtimeconfig.json
+C:\Users\Dezden\source\repos\Math and Comparison operator\bin\Debug\netcoreapp3.1\Math and Comparison operator.runtimeconfig.dev.json
+C:\Users\Dezden\source\repos\Math and Comparison operator\bin\Debug\netcoreapp3.1\Math and Comparison operator.dll
+C:\Users\Dezden\source\repos\Math and Comparison operator\bin\Debug\netcoreapp3.1\Math and Comparison operator.pdb
+C:\Users\Dezden\source\repos\Math and Comparison operator\obj\Debug\netcoreapp3.1\Math and Comparison operator.csproj.AssemblyReference.cache
+C:\Users\Dezden\source\repos\Math and Comparison operator\obj\Debug\netcoreapp3.1\Math and Comparison operator.AssemblyInfoInputs.cache
+C:\Users\Dezden\source\repos\Math and Comparison operator\obj\Debug\netcoreapp3.1\Math and Comparison operator.AssemblyInfo.cs
+C:\Users\Dezden\source\repos\Math and Comparison operator\obj\Debug\netcoreapp3.1\Math and Comparison operator.csproj.CoreCompileInputs.cache
+C:\Users\Dezden\source\repos\Math and Comparison operator\obj\Debug\netcoreapp3.1\Math and Comparison operator.dll
+C:\Users\Dezden\source\repos\Math and Comparison operator\obj\Debug\netcoreapp3.1\Math and Comparison operator.pdb
+C:\Users\Dezden\source\repos\Math and Comparison operator\obj\Debug\netcoreapp3.1\Math and Comparison operator.genruntimeconfig.cache
