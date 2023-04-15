@@ -1,0 +1,13 @@
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_submisission\bin\Debug\netcoreapp3.1\Console_App_submisission.exe
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_submisission\bin\Debug\netcoreapp3.1\Console_App_submisission.deps.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_submisission\bin\Debug\netcoreapp3.1\Console_App_submisission.runtimeconfig.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_submisission\bin\Debug\netcoreapp3.1\Console_App_submisission.runtimeconfig.dev.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_submisission\bin\Debug\netcoreapp3.1\Console_App_submisission.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_submisission\bin\Debug\netcoreapp3.1\Console_App_submisission.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_submisission\obj\Debug\netcoreapp3.1\Console_App_submisission.csproj.AssemblyReference.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_submisission\obj\Debug\netcoreapp3.1\Console_App_submisission.AssemblyInfoInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_submisission\obj\Debug\netcoreapp3.1\Console_App_submisission.AssemblyInfo.cs
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_submisission\obj\Debug\netcoreapp3.1\Console_App_submisission.csproj.CoreCompileInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_submisission\obj\Debug\netcoreapp3.1\Console_App_submisission.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_submisission\obj\Debug\netcoreapp3.1\Console_App_submisission.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_submisission\obj\Debug\netcoreapp3.1\Console_App_submisission.genruntimeconfig.cache
