@@ -1,0 +1,13 @@
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.exe
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.deps.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.runtimeconfig.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.runtimeconfig.dev.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.csproj.AssemblyReference.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.AssemblyInfoInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.AssemblyInfo.cs
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.csproj.CoreCompileInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.genruntimeconfig.cache
