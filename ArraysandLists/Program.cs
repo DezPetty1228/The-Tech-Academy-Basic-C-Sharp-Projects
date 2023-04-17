@@ -42,7 +42,7 @@ namespace ArraysandLists
 
             int index3 = Convert.ToInt32(Console.ReadLine()); // reads and converts user imput
             if (index3 < 0 || index3 > wordList.Count)
-            {   // error mesage when user pics a number not in the index
+            {   // error mesage whe
                 Console.WriteLine("That number is not in the index");
             }
             else

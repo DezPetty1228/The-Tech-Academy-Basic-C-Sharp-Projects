@@ -9,7 +9,7 @@ namespace Branching_Assignment
             Console.WriteLine("Welcome to Package Express. Please follow the instructions below");
             Console.WriteLine("What is your package weight?");
             string weight = Console.ReadLine();
-            double packWeight = Convert.ToDouble(weight);
+            int packWeight = Convert.ToInt32(weight);
             //checks if package weight is to big
 
             if (packWeight >= 51)
@@ -21,16 +21,16 @@ namespace Branching_Assignment
             {
                 Console.WriteLine("What is the width of your package in inches? ");
                 string inchWidth = Console.ReadLine();
-                double packWidth = Convert.ToDouble(inchWidth);
+                int packWidth = Convert.ToInt32(inchWidth);
                 Console.WriteLine("What is the height of your package in inches? ");
                 string inchHeight = Console.ReadLine();
-                double packHeight = Convert.ToDouble(inchHeight);
+                int packHeight = Convert.ToInt32(inchHeight);
                 Console.WriteLine("What is the length of your package in inches? ");
                 string inchLength = Console.ReadLine();
-                double packLength = Convert.ToDouble(inchLength);
+                int packLength = Convert.ToInt32(inchLength);
 
                 // creates a variable using thw total of the user input dimensions;
-                double totalDimensions = packHeight = packLength + packWidth;
+                double totalDimensions = packHeight + packLength + packWidth;
 
                 if (totalDimensions > 50)
                 {
@@ -39,7 +39,7 @@ namespace Branching_Assignment
                 else
                 {
                     // Calculates shipping quote using user provided dimensions
-                    double totalQuote = (packWidth * packLength * packHeight) * (packWeight) / 100;
+                    int totalQuote = (packWidth * packLength * packHeight) * (packWeight) / 100;
                     Console.WriteLine(totalQuote);
                 }
             }
