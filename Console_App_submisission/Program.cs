@@ -28,9 +28,14 @@ namespace Console_App_submisission
             //string result = numberPick == favNumber ? "you picked Dezden's Favorite number!." : " You did not pick the correct number !";
             //Console.WriteLine(result);
             //Console.ReadLine();
-          
-            
-            Console.WriteLine(" Guess a number ?");
+
+            int i = 0;
+            while (i < 5)
+            {
+                Console.WriteLine(i);
+                i++;
+
+                Console.WriteLine(" Guess a number ?");
             int number= Convert.ToInt32(Console.ReadLine());
             bool isGuessed = false;
 
