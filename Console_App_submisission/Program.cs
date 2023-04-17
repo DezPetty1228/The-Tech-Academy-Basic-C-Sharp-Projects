@@ -4,7 +4,7 @@ namespace Console_App_submisission
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             ////int currentTemperature = 48;
             ////int roomTemperature = 71;
@@ -29,11 +29,12 @@ namespace Console_App_submisission
             //Console.WriteLine(result);
             //Console.ReadLine();
 
-            int i = 0;
-            while (i < 5)
+            int i = 2;
+            while (i < 15)
             {
                 Console.WriteLine(i);
                 i++;
+            }
 
                 Console.WriteLine(" Guess a number ?");
             int number= Convert.ToInt32(Console.ReadLine());
@@ -71,4 +72,4 @@ namespace Console_App_submisission
             }
         }
     }
-}
+
