@@ -10,27 +10,28 @@ namespace ArraysandLists
             // initializes and creates an instance of an array called wordArray1 
             String[] wordArray1 = { "Welcome to the Jungle", "We Are The Titans", "It goes Down in the DM's", "Leave The door open" }; 
             Console.WriteLine("pick a number between 1 and 8"); // Asks for user imput 
-           int index = Convert.ToInt32(Console.ReadLine()); // reads and converts user imput
-            if (index < 0 || index > wordArray1.Length) 
+           int index1= Convert.ToInt32(Console.ReadLine()); // reads and converts user imput
+            if (index1 < -1 || index1 > wordArray1.Length) 
             {
-                Console.WriteLine("That number is nt in the index");
+                Console.WriteLine("That number is not in the index");
+                
             }
-            else
+             else
             {
-                Console.WriteLine(wordArray1[index]);
-                Console.ReadLine();
+                Console.WriteLine(index1(wordArray1));
             }
 
+
             int[] numArray = { 6, 21, 333, 111, 3, 4, 26, 420 };
+            Console.WriteLine("pick a different number between 1 and 7");
             int index2 = Convert.ToInt32(Console.ReadLine()); // reads and converts user imput
-            if (index < 0 || index2 > numArray.Length)
+            if (index2 < -1 || index2 > numArray.Length)
             {
                 Console.WriteLine("That number is not in the index");
             }
             else
             {
-                Console.WriteLine(wordArray1[index]);
-                Console.ReadLine();
+                Console.WriteLine(index2(numArray));
             }
 
 
@@ -40,6 +41,7 @@ namespace ArraysandLists
             wordList.Add("North Side");
             wordList.Add("South Side");
 
+            Console.WriteLine("pick a  number between 1 and 7");
             int index3 = Convert.ToInt32(Console.ReadLine()); // reads and converts user imput
             if (index3 < 0 || index3 > wordList.Count)
             {   // error mesage whe
@@ -47,7 +49,7 @@ namespace ArraysandLists
             }
             else
             {
-                Console.WriteLine(wordList[index3]);
+                Console.WriteLine((index3(wordList));
                 Console.ReadLine();
             }
             //Console.WriteLine(wordList[0]);
