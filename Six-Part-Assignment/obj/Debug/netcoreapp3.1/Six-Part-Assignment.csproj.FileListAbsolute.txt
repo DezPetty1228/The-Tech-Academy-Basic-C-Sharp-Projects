@@ -1,0 +1,13 @@
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part-Assignment\obj\Debug\netcoreapp3.1\Six-Part-Assignment.csproj.AssemblyReference.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part-Assignment\obj\Debug\netcoreapp3.1\Six-Part-Assignment.AssemblyInfoInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part-Assignment\obj\Debug\netcoreapp3.1\Six-Part-Assignment.AssemblyInfo.cs
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part-Assignment\obj\Debug\netcoreapp3.1\Six-Part-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part-Assignment\bin\Debug\netcoreapp3.1\Six-Part-Assignment.exe
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part-Assignment\bin\Debug\netcoreapp3.1\Six-Part-Assignment.deps.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part-Assignment\bin\Debug\netcoreapp3.1\Six-Part-Assignment.runtimeconfig.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part-Assignment\bin\Debug\netcoreapp3.1\Six-Part-Assignment.runtimeconfig.dev.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part-Assignment\bin\Debug\netcoreapp3.1\Six-Part-Assignment.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part-Assignment\bin\Debug\netcoreapp3.1\Six-Part-Assignment.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part-Assignment\obj\Debug\netcoreapp3.1\Six-Part-Assignment.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part-Assignment\obj\Debug\netcoreapp3.1\Six-Part-Assignment.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part-Assignment\obj\Debug\netcoreapp3.1\Six-Part-Assignment.genruntimeconfig.cache
