@@ -45,7 +45,7 @@ namespace Six_Part_Assignment
                                                     // / how long you want loop to run / i < scores.length
                                                     // incrimentation /i++
             {
-                if (scores[i] >= 71)
+                if (scores[i] < 71)
                 {
                     Console.WriteLine("Congratulations you passed with a score of:  " + scores[i]);
                 }
@@ -76,7 +76,7 @@ namespace Six_Part_Assignment
 
                     {
                         Console.WriteLine(daysList[t] + " @INDEX " + t);
-
+                        break;
                     }
                 }
             }
@@ -88,7 +88,7 @@ namespace Six_Part_Assignment
             
             // Assignment 5
             //A list of strings that has at least two identical strings in the list. Ask the user to select text to search for in the list.
-            List<string> words = new List<string> { "Dezden", "Alissa", "Brynn", "Jesse", "MIke", "Kaden" };
+            List<string> words = new List<string> { "Dezden", "Alissa", "Brynn", "Jesse", "MIke", "Kaden", "Dezden"};
 
             // Create a loop that iterates through the list and then displays the indices of the items matching the user-selected text.
             // Ensure to remove any break statements that may prevent your code from returning multiple matches.
@@ -103,13 +103,14 @@ namespace Six_Part_Assignment
                 {
                     if (words[k] == faveName)
                     {
-                        Console.WriteLine(words[k] + "@Index" + k);
+                        Console.WriteLine(words[k] + " @Index " + k);
                     }
                 }
             }
             else // Add code to the loop to check if the user put in text that isn't on the list and, if they did, tells the user their input is 
             {
                 Console.WriteLine("Your input is not on the list ");
+                Console.ReadLine();
             }
             
                     // Assignment part 6
@@ -121,11 +122,11 @@ namespace Six_Part_Assignment
                     {
                         if (twins.Contains(dub))
                         {
-                            Console.WriteLine(" This is  Duplicate" + dub); // outputs that the value in dub is a duplic
+                            Console.WriteLine(" This is  Duplicate " + dub); // outputs that the value in dub is a duplic
                         }
                         else
                         {
-                            Console.WriteLine("This is is unique" + dub); // checks and displays wther or not value in dub is unique or not
+                            Console.WriteLine(" This is is unique " + dub); // checks and displays wther or not value in dub is unique or not
                         }
                         twins.Add(dub); // adds duplicates to twis list
 
