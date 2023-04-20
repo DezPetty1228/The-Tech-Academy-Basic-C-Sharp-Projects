@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace Six_Part_Assignment
 {
@@ -20,17 +21,17 @@ namespace Six_Part_Assignment
             //A loop that iterates through each string in the array and adds the user's text input to the end of each string
             Console.WriteLine(" What number month were you born ");
             int numberMonth = Convert.ToInt32(Console.ReadLine());
-            
-            for(int j = 0;  j < months.Length; j++)
-               {
+
+            for (int j = 0; j < months.Length; j++)
+            {
                 Console.WriteLine(months[j] + numberMonth);
             }
-            
+
             // Assignment part 2
             // Create an infinite loop
             while (true)
             {
-            //This statement will be printed infinite times
+                //This statement will be printed infinite times
                 Console.WriteLine(" infinite loop incoming ");
                 break; // This Fixes the infinite loop 
 
@@ -48,7 +49,7 @@ namespace Six_Part_Assignment
                     Console.WriteLine("you Score is: " + scores[i] + " You did not pass");
                 }
                 else if (scores[i] <= 59)
-                 {
+                {
                     Console.WriteLine(" Your score was: " + scores[i] + "Unfortunately you Fail");
                 }
 
@@ -80,50 +81,54 @@ namespace Six_Part_Assignment
                         Console.ReadLine();
                     }
                 }
-                    // Assignment 5
-                    //A list of strings that has at least two identical strings in the list. Ask the user to select text to search for in the list.
-                    List<string> words = new List<string>();
-                    words.Add("Dezden");
-                    words.Add("Alissa");
-                    words.Add("Kaden");
-                    words.Add("Brynn");
-                    words.Add("Jesse");
-                    words.Add("Kim");
-                    words.Add("Alan");
-                    words.Add("Kierra");
+                // Assignment 5
+                //A list of strings that has at least two identical strings in the list. Ask the user to select text to search for in the list.
+                List<string> words = new List<string>();
+                words.Add("Dezden");
+                words.Add("Alissa");
+                words.Add("Kaden");
+                words.Add("Brynn");
+                words.Add("Jesse");
+                words.Add("Kim");
+                words.Add("Alan");
+                words.Add("Kierra");
 
-                    // Create a loop that iterates through the list and then displays the indices of the items matching the user-selected text.
-                    // Ensure to remove any break statements that may prevent your code from returning multiple matches.
+                // Create a loop that iterates through the list and then displays the indices of the items matching the user-selected text.
+                // Ensure to remove any break statements that may prevent your code from returning multiple matches.
 
-                    Console.WriteLine(words);
-                    Console.WriteLine("Which name do you like the most ?");
-                    string faveName = Console.ReadLine();
+                Console.WriteLine(words);
+                Console.WriteLine("Which name do you like the most ?");
+                string faveName = Console.ReadLine();
 
-                    for (int k = 0; k < words.Count; k++)
+                for (int k = 0; k < words.Count; k++)
+                {
+                    if (words = faveName)
                     {
-                        if (words == faveName)
-                        {
-                            Console.WriteLine();
-                        }
-                        else // Add code to the loop to check if the user put in text that isn't on the list and, if they did, tells the user their input is 
-                        {
-                            Console.WriteLine("Your input is not on the list ");
-                        }
+                        Console.WriteLine();
+                    }
+                    else // Add code to the loop to check if the user put in text that isn't on the list and, if they did, tells the user their input is 
+                    {
+                        Console.WriteLine("Your input is not on the list ");
                     }
 
-                // Assignment part 6
-                //  Create a list of strings that has at least two identical strings in the list.
-                List<string> letters = new List<string>();
-                letters.Add("A");
-                letters.Add("B");
-                letters.Add("C");
-                letters.Add("K");
-                letters.Add("B");
-                letters.Add("D");
 
-                //Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list.
-                foreach(<string> in letters)
+                    // Assignment part 6
+                    //  Create a list of strings that has at least two identical strings in the list.
+                    List<string> letters = new List<string>();
+                    letters.Add("A");
+                    letters.Add("B");
+                    letters.Add("C");
+                    letters.Add("K");
+                    letters.Add("B");
+                    letters.Add("D");
+
+                    //Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list.
+                    foreach (<string> in letters)
+                    {
+                         
+                    }
+            }
             }
         }
-        }
     }
+}
