@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dezden\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Twentyone\\Twentyone.csproj": {}
+    "C:\\Users\\Dezden\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CAlling_Method_Submission_Assignment\\CAlling_Method_Submission_Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dezden\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Twentyone\\Twentyone.csproj": {
+    "C:\\Users\\Dezden\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CAlling_Method_Submission_Assignment\\CAlling_Method_Submission_Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dezden\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Twentyone\\Twentyone.csproj",
-        "projectName": "Twentyone",
-        "projectPath": "C:\\Users\\Dezden\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Twentyone\\Twentyone.csproj",
+        "projectUniqueName": "C:\\Users\\Dezden\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CAlling_Method_Submission_Assignment\\CAlling_Method_Submission_Assignment.csproj",
+        "projectName": "CAlling_Method_Submission_Assignment",
+        "projectPath": "C:\\Users\\Dezden\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CAlling_Method_Submission_Assignment\\CAlling_Method_Submission_Assignment.csproj",
         "packagesPath": "C:\\Users\\Dezden\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dezden\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Twentyone\\obj\\",
+        "outputPath": "C:\\Users\\Dezden\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CAlling_Method_Submission_Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
