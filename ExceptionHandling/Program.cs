@@ -6,7 +6,7 @@ namespace ExceptionHandling
     {
         static void Main(string[] args)
         {
-            try // prefered path
+            try // prefered path runs if proper user input is aknowledged
             {
                 Console.WriteLine("Pick a number");
                 int numberOne = Convert.ToInt32(Console.ReadLine());
@@ -17,11 +17,23 @@ namespace ExceptionHandling
                 Console.WriteLine(numberOne + " Divided by " + numberTwo + " equals " + numberThree);
                 Console.ReadLine();
             }
-            catch (FormatException ex) // if errors occur 
+            catch (FormatException ex) // runs if format error occurs
+            {
+                Console.WriteLine(" please type a whole number. ");
+            }
+            catch (DivideByZeroException) // Runs if user divides by 0
+            {
+                Console.WriteLine("Please don't divide by zero");
+            }
+            catch(Exception ex) // runs if error occurs
             {
                 Console.WriteLine(ex.Message);
             }
-            Console.ReadLine();
+            finally // runs no matter what
+            {
+                Console.ReadLine();
+
+            }
         }
     }
 }
