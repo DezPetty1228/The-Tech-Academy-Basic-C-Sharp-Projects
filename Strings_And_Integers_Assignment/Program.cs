@@ -19,11 +19,11 @@ namespace Strings_And_Integers_Assignment
                     Console.WriteLine(result);
                     Console.ReadLine(); // and displays the result to the screen.
                 }
-                catch (DivideByZeroException) //
+                catch (DivideByZeroException) // Runs if user divides by 0
                 {
                     Console.WriteLine("Please don't divide by zero");
                 }
-                catch (FieldAccessException ex)
+                catch (FormatException) //runs if format error occurs0
                 {
                     Console.WriteLine(" please type a whole number. ");
                 }
