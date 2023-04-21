@@ -1,0 +1,3 @@
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\obj\Debug\netcoreapp3.1\Main_Method_Submission.AssemblyInfoInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\obj\Debug\netcoreapp3.1\Main_Method_Submission.AssemblyInfo.cs
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\obj\Debug\netcoreapp3.1\Main_Method_Submission.csproj.CoreCompileInputs.cache
