@@ -1,0 +1,13 @@
+C:\Users\Dezden\source\repos\Twentyone\bin\Debug\netcoreapp3.1\Twentyone.exe
+C:\Users\Dezden\source\repos\Twentyone\bin\Debug\netcoreapp3.1\Twentyone.deps.json
+C:\Users\Dezden\source\repos\Twentyone\bin\Debug\netcoreapp3.1\Twentyone.runtimeconfig.json
+C:\Users\Dezden\source\repos\Twentyone\bin\Debug\netcoreapp3.1\Twentyone.runtimeconfig.dev.json
+C:\Users\Dezden\source\repos\Twentyone\bin\Debug\netcoreapp3.1\Twentyone.dll
+C:\Users\Dezden\source\repos\Twentyone\bin\Debug\netcoreapp3.1\Twentyone.pdb
+C:\Users\Dezden\source\repos\Twentyone\obj\Debug\netcoreapp3.1\Twentyone.csproj.AssemblyReference.cache
+C:\Users\Dezden\source\repos\Twentyone\obj\Debug\netcoreapp3.1\Twentyone.AssemblyInfoInputs.cache
+C:\Users\Dezden\source\repos\Twentyone\obj\Debug\netcoreapp3.1\Twentyone.AssemblyInfo.cs
+C:\Users\Dezden\source\repos\Twentyone\obj\Debug\netcoreapp3.1\Twentyone.csproj.CoreCompileInputs.cache
+C:\Users\Dezden\source\repos\Twentyone\obj\Debug\netcoreapp3.1\Twentyone.dll
+C:\Users\Dezden\source\repos\Twentyone\obj\Debug\netcoreapp3.1\Twentyone.pdb
+C:\Users\Dezden\source\repos\Twentyone\obj\Debug\netcoreapp3.1\Twentyone.genruntimeconfig.cache
