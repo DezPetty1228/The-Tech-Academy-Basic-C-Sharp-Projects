@@ -4,14 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Twentyone
+// A game of 21 or blackjACK
+namespace Twentyone // methods must be inside the namespace
 {
-    class Program
+    class Program // basic models of objects are Classes 
     {
         // acces modifier = static / return type= void
         static void Main(string[] args) // function or method or routine = Main
         {
-            Deck deck = new Deck(); //deck = shuffle(deck); // shuffles dexk and then returns it as Deck
+            //deck is a 
+            // instantiation of an object assigned to variable  "deck" using data type and class "Deck" as model
+            Deck deck = new Deck(); //deck = shuffle(deck); // shuffles deck and then returns it as Deck
             int timesShuffled = 0;
             deck = shuffle(deck, out timesShuffled, 4); // NAmed parameter is Deck:
 
@@ -21,6 +24,8 @@ namespace Twentyone
             }
             Console.WriteLine(deck.Cards.Count);
             Console.WriteLine("Times shuffled: {0}", +timesShuffled);
+
+
             Console.ReadLine();
         }
 

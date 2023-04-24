@@ -1,0 +1,13 @@
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_submission\bin\Debug\netcoreapp3.1\Method_Class_submission.exe
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_submission\bin\Debug\netcoreapp3.1\Method_Class_submission.deps.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_submission\bin\Debug\netcoreapp3.1\Method_Class_submission.runtimeconfig.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_submission\bin\Debug\netcoreapp3.1\Method_Class_submission.runtimeconfig.dev.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_submission\bin\Debug\netcoreapp3.1\Method_Class_submission.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_submission\bin\Debug\netcoreapp3.1\Method_Class_submission.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_submission\obj\Debug\netcoreapp3.1\Method_Class_submission.csproj.AssemblyReference.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_submission\obj\Debug\netcoreapp3.1\Method_Class_submission.AssemblyInfoInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_submission\obj\Debug\netcoreapp3.1\Method_Class_submission.AssemblyInfo.cs
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_submission\obj\Debug\netcoreapp3.1\Method_Class_submission.csproj.CoreCompileInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_submission\obj\Debug\netcoreapp3.1\Method_Class_submission.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_submission\obj\Debug\netcoreapp3.1\Method_Class_submission.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_submission\obj\Debug\netcoreapp3.1\Method_Class_submission.genruntimeconfig.cache
