@@ -5,11 +5,13 @@ using System.Text;
 namespace CAlling_Method_Submission_Assignment
 {
 
-    class Program
+    public class Program
     {
-        static void Main(string[])
+        static
+            
+            void Main()
         {
-            // Instantiate the class
+            // Instantiate the class MAthOperations callled mathops
             MathOperations mathOps = new MathOperations();
 
             // Call the first method, passing in an integer
@@ -27,7 +29,7 @@ namespace CAlling_Method_Submission_Assignment
     }
 
     // Class that performs math operations
-    class MathOperations
+    public class MathOperations
     {
         // Method that performs a math operation on an integer
         public int PerformMathOperation(int num)

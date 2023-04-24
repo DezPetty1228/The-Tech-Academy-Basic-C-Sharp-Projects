@@ -1,3 +1,13 @@
 C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\obj\Debug\netcoreapp3.1\Main_Method_Submission.AssemblyInfoInputs.cache
 C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\obj\Debug\netcoreapp3.1\Main_Method_Submission.AssemblyInfo.cs
 C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\obj\Debug\netcoreapp3.1\Main_Method_Submission.csproj.CoreCompileInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\obj\Debug\netcoreapp3.1\Main_Method_Submission.csproj.AssemblyReference.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\bin\Debug\netcoreapp3.1\Main_Method_Submission.exe
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\bin\Debug\netcoreapp3.1\Main_Method_Submission.deps.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\bin\Debug\netcoreapp3.1\Main_Method_Submission.runtimeconfig.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\bin\Debug\netcoreapp3.1\Main_Method_Submission.runtimeconfig.dev.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\bin\Debug\netcoreapp3.1\Main_Method_Submission.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\bin\Debug\netcoreapp3.1\Main_Method_Submission.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\obj\Debug\netcoreapp3.1\Main_Method_Submission.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\obj\Debug\netcoreapp3.1\Main_Method_Submission.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Submission\obj\Debug\netcoreapp3.1\Main_Method_Submission.genruntimeconfig.cache

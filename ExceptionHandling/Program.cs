@@ -17,7 +17,7 @@ namespace ExceptionHandling
                 Console.WriteLine(numberOne + " Divided by " + numberTwo + " equals " + numberThree);
                 Console.ReadLine();
             }
-            catch (FormatException ex) // runs if format error occurs
+            catch (FormatException ex) // runs if format error occurs0
             {
                 Console.WriteLine(" please type a whole number. ");
             }
