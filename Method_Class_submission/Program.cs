@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Method_Class_submission
+namespace Class_submission
 {
     class Program
     {

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dezden\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method_Class_submission\\Method_Class_submission.csproj",
-      "projectName": "Method_Class_submission",
-      "projectPath": "C:\\Users\\Dezden\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method_Class_submission\\Method_Class_submission.csproj",
+      "projectUniqueName": "C:\\Users\\Dezden\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method_Class_submission\\Class_submission.csproj",
+      "projectName": "Class_submission",
+      "projectPath": "C:\\Users\\Dezden\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method_Class_submission\\Class_submission.csproj",
       "packagesPath": "C:\\Users\\Dezden\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Dezden\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Method_Class_submission\\obj\\",
       "projectStyle": "PackageReference",
