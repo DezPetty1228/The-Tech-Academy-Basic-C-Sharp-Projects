@@ -1,0 +1,13 @@
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAsignment\obj\Debug\netcoreapp3.1\AbstractClassSubmissionAsignment.csproj.AssemblyReference.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAsignment\obj\Debug\netcoreapp3.1\AbstractClassSubmissionAsignment.AssemblyInfoInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAsignment\obj\Debug\netcoreapp3.1\AbstractClassSubmissionAsignment.AssemblyInfo.cs
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAsignment\obj\Debug\netcoreapp3.1\AbstractClassSubmissionAsignment.csproj.CoreCompileInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAsignment\bin\Debug\netcoreapp3.1\AbstractClassSubmissionAsignment.exe
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAsignment\bin\Debug\netcoreapp3.1\AbstractClassSubmissionAsignment.deps.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAsignment\bin\Debug\netcoreapp3.1\AbstractClassSubmissionAsignment.runtimeconfig.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAsignment\bin\Debug\netcoreapp3.1\AbstractClassSubmissionAsignment.runtimeconfig.dev.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAsignment\bin\Debug\netcoreapp3.1\AbstractClassSubmissionAsignment.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAsignment\bin\Debug\netcoreapp3.1\AbstractClassSubmissionAsignment.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAsignment\obj\Debug\netcoreapp3.1\AbstractClassSubmissionAsignment.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAsignment\obj\Debug\netcoreapp3.1\AbstractClassSubmissionAsignment.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAsignment\obj\Debug\netcoreapp3.1\AbstractClassSubmissionAsignment.genruntimeconfig.cache
