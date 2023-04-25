@@ -1,0 +1,13 @@
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step281MethodClass\obj\Debug\netcoreapp3.1\Step281MethodClass.csproj.AssemblyReference.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step281MethodClass\obj\Debug\netcoreapp3.1\Step281MethodClass.AssemblyInfoInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step281MethodClass\obj\Debug\netcoreapp3.1\Step281MethodClass.AssemblyInfo.cs
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step281MethodClass\obj\Debug\netcoreapp3.1\Step281MethodClass.csproj.CoreCompileInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step281MethodClass\bin\Debug\netcoreapp3.1\Step281MethodClass.exe
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step281MethodClass\bin\Debug\netcoreapp3.1\Step281MethodClass.deps.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step281MethodClass\bin\Debug\netcoreapp3.1\Step281MethodClass.runtimeconfig.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step281MethodClass\bin\Debug\netcoreapp3.1\Step281MethodClass.runtimeconfig.dev.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step281MethodClass\bin\Debug\netcoreapp3.1\Step281MethodClass.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step281MethodClass\bin\Debug\netcoreapp3.1\Step281MethodClass.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step281MethodClass\obj\Debug\netcoreapp3.1\Step281MethodClass.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step281MethodClass\obj\Debug\netcoreapp3.1\Step281MethodClass.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step281MethodClass\obj\Debug\netcoreapp3.1\Step281MethodClass.genruntimeconfig.cache
