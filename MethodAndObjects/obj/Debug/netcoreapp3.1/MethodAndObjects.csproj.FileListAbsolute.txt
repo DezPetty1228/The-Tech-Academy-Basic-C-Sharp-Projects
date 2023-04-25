@@ -1,0 +1,13 @@
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\bin\Debug\netcoreapp3.1\MethodAndObjects.exe
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\bin\Debug\netcoreapp3.1\MethodAndObjects.deps.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\bin\Debug\netcoreapp3.1\MethodAndObjects.runtimeconfig.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\bin\Debug\netcoreapp3.1\MethodAndObjects.runtimeconfig.dev.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\bin\Debug\netcoreapp3.1\MethodAndObjects.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\bin\Debug\netcoreapp3.1\MethodAndObjects.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\obj\Debug\netcoreapp3.1\MethodAndObjects.csproj.AssemblyReference.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\obj\Debug\netcoreapp3.1\MethodAndObjects.AssemblyInfoInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\obj\Debug\netcoreapp3.1\MethodAndObjects.AssemblyInfo.cs
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\obj\Debug\netcoreapp3.1\MethodAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\obj\Debug\netcoreapp3.1\MethodAndObjects.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\obj\Debug\netcoreapp3.1\MethodAndObjects.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\obj\Debug\netcoreapp3.1\MethodAndObjects.genruntimeconfig.cache
