@@ -6,6 +6,6 @@ namespace AbstractClassSubmissionAsignment
 {
     interface IQuittable
     {
-      public void Quittable(Person person);
+      public void Quit(Person person);
     }
 }
