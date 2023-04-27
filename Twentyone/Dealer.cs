@@ -15,7 +15,7 @@ namespace Twentyone
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
-            Console.WriteLine(Deck.Cards.First().Tostring() + "\n");
+            Console.WriteLine(Deck.Cards.First());
             Deck.Cards.RemoveAt(0);
         }
     }

@@ -13,7 +13,9 @@ namespace AbstractClassSubmissionAsignment
             janitor.SayName();
             Console.ReadLine();
 
-
+            // instantiated IQuittable as quitter
+            IQuittable quitter = new Employee();
+            quitter.Quit();
             
         }
     }
