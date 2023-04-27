@@ -10,12 +10,10 @@ namespace AbstractClassSubmissionAsignment
         public string FirstName { get; set; }
 
         public string LastName { get; set; }
-     
 
-        public void SayName()   // Give this class a void method called SayName() ”.
-        {
-            Console.WriteLine("Name: " + FirstName + LastName);
-        }
 
+        public abstract void SayName();   // Give this class a void method called SayName() ”.
+        
+            
     }
 }
