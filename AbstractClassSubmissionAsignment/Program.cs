@@ -26,7 +26,9 @@ namespace AbstractClassSubmissionAsignment
             // instantiated IQuittable as quitter
             IQuittable quitter = new Employee();
             quitter.Quit();
-            
+
+            Console.WriteLine(teacher == janitor); // checks to see if the employee id's ARE THE SAME
+            Console.ReadLine();
         }
     }
 }

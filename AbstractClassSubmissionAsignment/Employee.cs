@@ -8,23 +8,16 @@ namespace AbstractClassSubmissionAsignment
     {   //Create another class called Employee and have it inherit from the Person class.
 
         public int ID { get; set; }
-        public string FirstName { get; set; }
-        public string Lastname { get; set; }
-
-        //
-        public static override Employee operator ==(Employee employee, Employee employee1)
+      
+        public static bool operator== (Employee employee, Employee employee1)
         {
-            if (employee.ID == employee1.ID)
-            {
-                Console.WriteLine(" You cannot compare the same person");
-            }
+            return employee.ID == employee1.ID;
+            // returns a boolean 
         }
-        public static Person operator!= (Employee employee, Employee employee1)
+        public static bool operator!= (Employee employee, Employee employee1)
         {
-            if (employee.ID != employee1.ID)
-            {
-                Console.WriteLine("these are not the same id ");
-            }
+            return employee.ID != employee1.ID;
+            // returns boolean if empoyee 1 and empoyee jave the same ID
         }
 
 
