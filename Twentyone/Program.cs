@@ -13,8 +13,8 @@ namespace Twentyone // methods must be inside the namespace
             game.Players = new List<Player>();
             Player player = new Player();
             player.Name = "julius";
-            game = game + player;
-            game = game - player;
+            game += player; // same as game = game + player addeing two objects
+            game = ga- player;
             Deck deck = new Deck();
             deck.Shuffle(3);
            
