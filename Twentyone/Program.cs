@@ -9,12 +9,7 @@ namespace Twentyone // methods must be inside the namespace
     {
         static void Main(string[] args) // function or method or routine = Main
         {
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "julius";
-            game += player; // same as game = game + player addeing two objects
-            game = ga- player;
+            
             Deck deck = new Deck();
             deck.Shuffle(3);
            
