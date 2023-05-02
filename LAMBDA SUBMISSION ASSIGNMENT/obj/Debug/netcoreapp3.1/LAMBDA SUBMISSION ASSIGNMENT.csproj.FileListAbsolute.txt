@@ -1,0 +1,13 @@
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\LAMBDA SUBMISSION ASSIGNMENT.exe
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\LAMBDA SUBMISSION ASSIGNMENT.deps.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\LAMBDA SUBMISSION ASSIGNMENT.runtimeconfig.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\LAMBDA SUBMISSION ASSIGNMENT.runtimeconfig.dev.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\LAMBDA SUBMISSION ASSIGNMENT.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\LAMBDA SUBMISSION ASSIGNMENT.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\LAMBDA SUBMISSION ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\LAMBDA SUBMISSION ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\LAMBDA SUBMISSION ASSIGNMENT.AssemblyInfo.cs
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\LAMBDA SUBMISSION ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\LAMBDA SUBMISSION ASSIGNMENT.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\LAMBDA SUBMISSION ASSIGNMENT.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\LAMBDA SUBMISSION ASSIGNMENT.genruntimeconfig.cache

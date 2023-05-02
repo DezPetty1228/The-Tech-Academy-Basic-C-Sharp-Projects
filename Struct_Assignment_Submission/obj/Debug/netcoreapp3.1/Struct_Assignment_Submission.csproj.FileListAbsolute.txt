@@ -1,0 +1,13 @@
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment_Submission\bin\Debug\netcoreapp3.1\Struct_Assignment_Submission.exe
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment_Submission\bin\Debug\netcoreapp3.1\Struct_Assignment_Submission.deps.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment_Submission\bin\Debug\netcoreapp3.1\Struct_Assignment_Submission.runtimeconfig.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment_Submission\bin\Debug\netcoreapp3.1\Struct_Assignment_Submission.runtimeconfig.dev.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment_Submission\bin\Debug\netcoreapp3.1\Struct_Assignment_Submission.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment_Submission\bin\Debug\netcoreapp3.1\Struct_Assignment_Submission.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment_Submission\obj\Debug\netcoreapp3.1\Struct_Assignment_Submission.csproj.AssemblyReference.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment_Submission\obj\Debug\netcoreapp3.1\Struct_Assignment_Submission.AssemblyInfoInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment_Submission\obj\Debug\netcoreapp3.1\Struct_Assignment_Submission.AssemblyInfo.cs
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment_Submission\obj\Debug\netcoreapp3.1\Struct_Assignment_Submission.csproj.CoreCompileInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment_Submission\obj\Debug\netcoreapp3.1\Struct_Assignment_Submission.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment_Submission\obj\Debug\netcoreapp3.1\Struct_Assignment_Submission.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct_Assignment_Submission\obj\Debug\netcoreapp3.1\Struct_Assignment_Submission.genruntimeconfig.cache
