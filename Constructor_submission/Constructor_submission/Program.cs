@@ -8,30 +8,28 @@ namespace Constructor_submission
         {
             const int century = 100; // Create a const variable.
 
-            var Name  = 100;    //Create a variable using the keyword “var.”
+            var player = "Dez";    //Create a variable using the keyword “var.”
 
         }
     }
 
     public class NewEmployee    //Chain two constructors together.
-
     {
-        public string firstName;
-        public string lastName;
-        public NewEmployee()
+        private int id;
+        private string name;
+        public NewEmployee() : this(0001, "")
         {
-            Console.WriteLine("Reserving new record for the upcoming employee.");
+
         }
-        public NewEmployee(string firstName)
+        public NewEmployee(int id, string name)
         {
-            this.firstName = firstName;
-            Console.WriteLine("Creating new record for the upcoming employee, with firstName!");
+            this.id = id;
+            this.name = name;
         }
-        public NewEmployee(string firstName, string lastName)
+
+        public NewEmployee(int id) : this(id, "")
         {
-            this.lastName = lastName;
-            this.firstName = firstName;
-            Console.WriteLine("Creating new record for the upcoming employee, with firstName and lastName!");
+
         }
     }
 }
