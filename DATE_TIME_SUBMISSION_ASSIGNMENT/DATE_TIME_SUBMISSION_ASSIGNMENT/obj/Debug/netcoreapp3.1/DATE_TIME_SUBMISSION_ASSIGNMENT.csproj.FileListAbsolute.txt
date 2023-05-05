@@ -1,0 +1,13 @@
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DATE_TIME_SUBMISSION_ASSIGNMENT\DATE_TIME_SUBMISSION_ASSIGNMENT\bin\Debug\netcoreapp3.1\DATE_TIME_SUBMISSION_ASSIGNMENT.exe
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DATE_TIME_SUBMISSION_ASSIGNMENT\DATE_TIME_SUBMISSION_ASSIGNMENT\bin\Debug\netcoreapp3.1\DATE_TIME_SUBMISSION_ASSIGNMENT.deps.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DATE_TIME_SUBMISSION_ASSIGNMENT\DATE_TIME_SUBMISSION_ASSIGNMENT\bin\Debug\netcoreapp3.1\DATE_TIME_SUBMISSION_ASSIGNMENT.runtimeconfig.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DATE_TIME_SUBMISSION_ASSIGNMENT\DATE_TIME_SUBMISSION_ASSIGNMENT\bin\Debug\netcoreapp3.1\DATE_TIME_SUBMISSION_ASSIGNMENT.runtimeconfig.dev.json
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DATE_TIME_SUBMISSION_ASSIGNMENT\DATE_TIME_SUBMISSION_ASSIGNMENT\bin\Debug\netcoreapp3.1\DATE_TIME_SUBMISSION_ASSIGNMENT.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DATE_TIME_SUBMISSION_ASSIGNMENT\DATE_TIME_SUBMISSION_ASSIGNMENT\bin\Debug\netcoreapp3.1\DATE_TIME_SUBMISSION_ASSIGNMENT.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DATE_TIME_SUBMISSION_ASSIGNMENT\DATE_TIME_SUBMISSION_ASSIGNMENT\obj\Debug\netcoreapp3.1\DATE_TIME_SUBMISSION_ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DATE_TIME_SUBMISSION_ASSIGNMENT\DATE_TIME_SUBMISSION_ASSIGNMENT\obj\Debug\netcoreapp3.1\DATE_TIME_SUBMISSION_ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DATE_TIME_SUBMISSION_ASSIGNMENT\DATE_TIME_SUBMISSION_ASSIGNMENT\obj\Debug\netcoreapp3.1\DATE_TIME_SUBMISSION_ASSIGNMENT.AssemblyInfo.cs
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DATE_TIME_SUBMISSION_ASSIGNMENT\DATE_TIME_SUBMISSION_ASSIGNMENT\obj\Debug\netcoreapp3.1\DATE_TIME_SUBMISSION_ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DATE_TIME_SUBMISSION_ASSIGNMENT\DATE_TIME_SUBMISSION_ASSIGNMENT\obj\Debug\netcoreapp3.1\DATE_TIME_SUBMISSION_ASSIGNMENT.dll
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DATE_TIME_SUBMISSION_ASSIGNMENT\DATE_TIME_SUBMISSION_ASSIGNMENT\obj\Debug\netcoreapp3.1\DATE_TIME_SUBMISSION_ASSIGNMENT.pdb
+C:\Users\Dezden\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DATE_TIME_SUBMISSION_ASSIGNMENT\DATE_TIME_SUBMISSION_ASSIGNMENT\obj\Debug\netcoreapp3.1\DATE_TIME_SUBMISSION_ASSIGNMENT.genruntimeconfig.cache

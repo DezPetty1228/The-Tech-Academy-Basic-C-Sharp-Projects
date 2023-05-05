@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Linq;
-
+using System.IO;
 namespace Twentyone
 {
     public class Dealer
@@ -15,8 +15,13 @@ namespace Twentyone
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
+            string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(Deck.Cards.First());
-            Deck.Cards.RemoveAt(0);
+            using (StreamWriter file = new StreamWriter(@"C:\Users\Dezden\Desktop\Logs\Logs.txt", true))    // logs cards to text file in logs
+            {
+                file.WriteLine(card); // dictates what is being logged
+            }
+                Deck.Cards.RemoveAt(0);
         }
     }
 }

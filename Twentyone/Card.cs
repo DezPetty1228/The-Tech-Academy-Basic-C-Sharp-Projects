@@ -8,9 +8,14 @@ namespace Twentyone
 {
     public struct Card // Design of object is the class 
     {
-        public string Suit { get; set; } // you can Get and Or Set the property -   // The Card clas has a property of data type string called Suite
-        public string Face { get; set; } // you can Get and Or Set the property - //        // The Card clas has a property of data type string called Face
+        public Suit Suit { get; set; } // you can Get and Or Set the property -   // The Card clas has a property of data type string called Suite
+        public Face Face { get; set; } // you can Get and Or Set the property - //        // The Card clas has a property of data type string called Face
+        public override string ToString()
+        {
+            return string.Format("{0} of {1}", Face, Suit);
+        }
     }
+
     public enum Suit
     {
         Clubs, Diamonds,Hearts,Spades

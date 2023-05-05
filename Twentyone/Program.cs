@@ -1,30 +1,43 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using System.Linq;
+using System.IO;
+
 
 // A game of 21 or blackjACK
 namespace Twentyone // methods must be inside the namespace
 {
-    public class Program 
+     class Program 
     {
-        static void Main(string[] args) // function or method or routine = Main
+        //"I will be a Millionare and create generational welath for myself and my family";
+        static void Main() // function or method or routine = Main
         {
-            Card card1 = new Card();
-            Card card2 = card1;
-            card1.Face = Face.Eight;
-            card2.Face = Face.King;
-            Console.WriteLine(card1.Face);
             
-            Deck deck = new Deck();
-            deck.Shuffle(3);
-           
-            foreach (Card card in deck.Cards)
+            DateTime datetime = new DateTime(1992, 12, 28, 14, 30, 18);
+            
+            Console.WriteLine("Welcome to the West Coast Family Casino. Lets's start by reminding me your name. ");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("How Much Money did you bring to play with? ");
+            int bank = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(" Hello, {0} . would you like to play a game of 21 ? ", playerName);
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
-            Console.WriteLine(card.Face + " of " + card.Suit); // lists faces and suites of each card in deck
+                Player player = new Player(playerName, bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.IsActivelyPlaying = true;
+                while (player.IsActivelyPlaying && player.Balance >0 )
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thanks For playing! ");
             }
-            Console.WriteLine(deck.Cards.Count);
+            Console.WriteLine("Feel free to look around ");
             Console.ReadLine();
-            }
         }
-   }
+    }
+ }
    
